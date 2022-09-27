@@ -1,0 +1,25 @@
+.Expense-filter{
+    color: aliceblue;
+    
+    /* justify-content: flex-end; */
+
+    
+}
+
+.Expense-filter__control label{
+    margin-right: 450px;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    /* justify-self: flex-start; */
+    
+}
+.Expense-filter__control select{
+    background-color:#222;
+    color: #ddd;
+    border-radius: 15%;
+    /* display: inline-block; */
+    width: 100px;
+    text-align: center;
+    /* margin-right: 5%; */
+    /* justify-self: flex-end; */
+}
